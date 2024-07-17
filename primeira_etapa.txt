@@ -1,0 +1,40 @@
+1 - Diferenciar as camadas 2 e 3 do modelo OSI, e indicar os protocolos utilizados para endereçamento nestas camadas.
+	 
+	Resposta: A segunda camada do modelo OSI é a de enlace, onde acontece a transmissão e processamento dos dados, antes testando a possibilidade da existência de algum erro que se houver serão corrigidos e após enviados.
+  	Tem a função de controlar o fluxo de dados. 
+  	Subdividida em duas camadas:
+  	(Mac): Permite a conexão de diversos computadores em uma mesma rede.
+  	(LLC): Onde ocorre o fluxo de dados.
+
+  	 A terceira camada do modelo Osi é a de rede, onde a principal função é de identificar o IP de origem e destino, em caso de muita comunicação ao mesmo tempo ela define quais são mais importantes e devem ocorrer primeiro. Protocolos IP e ICMP.
+
+
+2 - Qual a diferença entre adotar uma solução proprietária como o sistema operacional Windows quando comparado 
+    a adoção de uma solução OpenSource como o sistema operacional Ubuntu?
+    Quais seriam os pontos negativos e positivos de cada abordagem?
+    
+	Resposta: O sistema Ubuntu por ser OpenSource oferece maior frequência de suportes e manutenções, junto da comunidade que se apoia e ajuda, por ser código aberto, os desenvolvedores da comunidade podem aferir e verificar os testes, corrigindo testes e buscando vulnerabilidades.
+
+	Pontos positivos do Ubuntu:
+	- Maior Segurança;
+	- Manutenções frequente;
+	- Suporte mais acessível;
+	- Maior controle e conhecimento de máquina;
+
+	Pontos negativos comparado ao Windows:
+	- Windows ja tem grande nome de mercado e influência;
+	- Compatibilidade de alguns apps;
+	- Por precisar fazer mais uso de comandos nos terminais acaba como consequência afastando determinado público;
+	- Mesmo no caso do ubuntu, o qual possui uma interface mais amigável, este ainda é menos intuitivo do que o windows;
+	
+3 - O que seria um projeto OpenSource? Como empresas podem adotar tais tecnologias e o que isso acarreta?
+
+	 Resposta: OpenSource significa Código aberto, seria um projeto onde o código da aplicação fica aberto ao público para visualização, modificação e distribuição conforme necessidade.
+	As empresas podem adotar essas tecnologias implementando um software OpenSource, onde tem acesso de diversas pessoas, compartilhando suas visões. 
+	Sabemos que pra se manter atualmente no mercado é preciso estar sempre atualizando e inovando ideias e estratégias novas, utilizar um software OpenSource pode ser uma avanço nesse quesito, já que fica disponível para que as pessoas possam acrescentar ideias, ajudar com manutenções, suporte e etc... 
+	
+
+	
+
+	
+  
